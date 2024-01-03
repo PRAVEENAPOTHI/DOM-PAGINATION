@@ -1,0 +1,29 @@
+body {
+  background-color: #282c34; 
+  color: #09f094; 
+  font-family: 'Arial', sans-serif; 
+}
+
+#nav-bar {
+  position: relative;
+  top: 5rem; 
+}
+
+#description {
+  font-size: 18px; 
+  font-family: 'Helvetica', Arial, sans-serif; 
+}
+
+#table-head {
+  color: #42f56c;
+  text-align: center;
+  font-weight: bold;
+  font-size: 24px; 
+  font-family: 'Verdana', Geneva, Tahoma, sans-serif;
+  text-shadow: 1px 1px 1px #6eff93; 
+}
+
+#t-body {
+  color: #f2f2f2; 
+  text-align: center;
+}
